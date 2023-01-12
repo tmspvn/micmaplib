@@ -802,7 +802,7 @@ def getlistimg(dir=os.getcwd()):
 
 
 def get_mml_cwd():
-    """Get current working directory of micmaplab.py"""
+    """Get current working directory of micmaplib.py"""
     return os.path.dirname(__file__)
 
 
